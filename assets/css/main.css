@@ -3225,10 +3225,14 @@ input, select, textarea {
 				padding: 3em 2em 0.1em 2em ;
 			}
 
+			#header h1 {
+				margin-top: -3%;
+			}
+
 				#header p {
 					font-size: 1em;
 					letter-spacing: 0;
-					margin-bottom: 0;
+					margin-bottom: 5%;
 				}
 
 					#header p br {
