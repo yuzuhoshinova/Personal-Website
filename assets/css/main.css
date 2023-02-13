@@ -3239,10 +3239,10 @@ input, select, textarea {
 					padding: 4em 2em 1em 2em ;
 				}
 
-					#header.alt h1 {
-						font-size: 2.5em;
-						margin-top: -3%; 
-					}
+				#header.alt h1 {
+					font-size: 2.5em;
+					margin-top: -10%; 
+				}
 
 		}
 
