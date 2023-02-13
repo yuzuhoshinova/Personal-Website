@@ -3140,20 +3140,22 @@ input, select, textarea {
 	}
 
 		#header h1 {
-			margin: 0 0 0.25em 0;
+			margin: 0.25em 0;
+			font-size: small;
 		}
 
 		#header p {
-			font-size: 1.25em;
 			letter-spacing: -0.025em;
+			margin-bottom: -3%;
 		}
 
-		#header.sub, #header.alt {
+		#header.alt {
 			padding: 7em 5em 4em 5em ;
-			margin-top: -5%;
+			margin-top: -8%;
 		}
 
 			#header.alt h1 {
+				margin-top: -7%;
 				font-size: 3.25em;
 			}
 
@@ -3182,7 +3184,7 @@ input, select, textarea {
 				margin: 0 0 1.5em 0;
 			}
 
-				#header.alt .logo img, #header.sub .logo img{
+				#header.alt .logo img img{
 					display: block;
 					margin: 0 auto;
 					max-width: 75%;
@@ -3198,7 +3200,7 @@ input, select, textarea {
 				padding: 4em 4em 0.1em 4em ;
 			}
 
-				#header.alt, #header.sub {
+				#header.alt {
 					padding: 6em 4em 3em 4em ;
 				}
 
@@ -3210,7 +3212,7 @@ input, select, textarea {
 				padding: 4em 3em 0.1em 3em ;
 			}
 
-				#header.alt, #header.sub {
+				#header.alt {
 					padding: 5em 3em 2em 3em ;
 				}
 
@@ -3231,7 +3233,7 @@ input, select, textarea {
 						display: none;
 					}
 
-				#header.alt, #header.sub {
+				#header.alt {
 					padding: 4em 2em 1em 2em ;
 				}
 
@@ -3247,7 +3249,7 @@ input, select, textarea {
 				padding: 3em 1.5em 0.1em 1.5em ;
 			}
 
-				#header.alt, #header.sub {
+				#header.alt {
 					padding: 4em 1.5em 1em 1.5em ;
 				}
 
@@ -3259,7 +3261,7 @@ input, select, textarea {
 				padding: 2.5em 1em 0.1em 1em ;
 			}
 
-				#header.alt, #header.sub {
+				#header.alt {
 					padding: 3.5em 1em 0.5em 1em ;
 				}
 
