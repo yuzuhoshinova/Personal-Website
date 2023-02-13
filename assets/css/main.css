@@ -3228,7 +3228,7 @@ input, select, textarea {
 			#header.alt p {
 				font-size: 1em;
 				letter-spacing: 0;
-				margin-bottom: 10%;
+				margin-bottom: 15%;
 			}
 
 					#header p br {
@@ -3241,7 +3241,7 @@ input, select, textarea {
 
 				#header.alt h1 {
 					font-size: 2.5em;
-					margin-top: -10%; 
+					margin-top: -20%; 
 				}
 
 		}
