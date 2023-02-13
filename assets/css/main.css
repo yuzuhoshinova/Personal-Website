@@ -3148,11 +3148,7 @@ input, select, textarea {
 			letter-spacing: -0.025em;
 		}
 
-		#header.sub {
-			padding: 7em 5em 4em 5em ;
-			margin-top: -5%;
-		}
-		#header.alt {
+		#header.sub, #header.alt {
 			padding: 7em 5em 4em 5em ;
 			margin-top: -5%;
 		}
@@ -3186,7 +3182,7 @@ input, select, textarea {
 				margin: 0 0 1.5em 0;
 			}
 
-				#header.alt .logo img {
+				#header.alt .logo img, #header.sub .logo img{
 					display: block;
 					margin: 0 auto;
 					max-width: 75%;
@@ -3202,7 +3198,7 @@ input, select, textarea {
 				padding: 4em 4em 0.1em 4em ;
 			}
 
-				#header.alt {
+				#header.alt, #header.sub {
 					padding: 6em 4em 3em 4em ;
 				}
 
@@ -3214,7 +3210,7 @@ input, select, textarea {
 				padding: 4em 3em 0.1em 3em ;
 			}
 
-				#header.alt {
+				#header.alt, #header.sub {
 					padding: 5em 3em 2em 3em ;
 				}
 
@@ -3235,7 +3231,7 @@ input, select, textarea {
 						display: none;
 					}
 
-				#header.alt {
+				#header.alt, #header.sub {
 					padding: 4em 2em 1em 2em ;
 				}
 
@@ -3251,7 +3247,7 @@ input, select, textarea {
 				padding: 3em 1.5em 0.1em 1.5em ;
 			}
 
-				#header.alt {
+				#header.alt, #header.sub {
 					padding: 4em 1.5em 1em 1.5em ;
 				}
 
@@ -3263,7 +3259,7 @@ input, select, textarea {
 				padding: 2.5em 1em 0.1em 1em ;
 			}
 
-				#header.alt {
+				#header.alt, #header.sub {
 					padding: 3.5em 1em 0.5em 1em ;
 				}
 
