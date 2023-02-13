@@ -3142,6 +3142,7 @@ input, select, textarea {
 		#header h1 {
 			margin: 0.25em 0;
 			font-size: small;
+			margin-top: -5%
 		}
 
 		#header p {
