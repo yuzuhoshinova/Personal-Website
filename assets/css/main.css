@@ -3228,6 +3228,7 @@ input, select, textarea {
 				#header p {
 					font-size: 1em;
 					letter-spacing: 0;
+					margin-bottom: 0;
 				}
 
 					#header p br {
