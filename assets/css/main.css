@@ -185,7 +185,7 @@ input, select, textarea {
 			-ms-column-gap: 2em;
 			column-gap: 2em;
 			text-align: justify;
-		}
+		}		  
 
 	h1, h2, h3, h4, h5, h6 {
 		font-weight: 300;
@@ -2476,6 +2476,15 @@ input, select, textarea {
 			.image.main img {
 				width: 100%;
 			}
+
+			span.image img{
+				width: 30%;
+				height: 30%;
+				display: block;
+				margin: 0 auto;
+				text-align: center;
+				padding-bottom: 5%;
+			}	
 
 /* List */
 
