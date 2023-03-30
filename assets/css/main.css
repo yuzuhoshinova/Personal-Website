@@ -2477,7 +2477,7 @@ input, select, textarea {
 				width: 100%;
 			}
 
-			span.image img{
+			span.image#img02 img{
 				width: 30%;
 				height: 30%;
 				display: block;
